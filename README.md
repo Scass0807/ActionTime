@@ -12,3 +12,13 @@ To get started, click the Login/Sign Up card and enter the following email and p
 Email: demo@example.com
 
 Password: demo123
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443514722/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.37.35 AM"><img src="https://live.staticflickr.com/65535/50443514722_a469ecdfac.jpg" width="500" height="268" alt="Screen Shot 2020-10-10 at 12.37.35 AM"></a>
+
+The website will then redirect you to the user homepage
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443345261/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.40.36 AM"><img src="https://live.staticflickr.com/65535/50443345261_e401aab362.jpg" width="500" height="267" alt="Screen Shot 2020-10-10 at 12.40.36 AM"></a>
+
+You can then choose to view your current challenges by Clicking on the My Challenges card, Or you can view public challenges by clicking on the Public Challenges card. Each challenge card can be clicked end it will flip to reveal more information about the challenge.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50442671793/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.47.57 AM"><img src="https://live.staticflickr.com/65535/50442671793_808d4202b0.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.47.57 AM"></a>
