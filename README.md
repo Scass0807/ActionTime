@@ -51,7 +51,7 @@ Once you have filled out all the information, click the Create Reward button. Yo
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445962316/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.06.05 PM"><img src="https://live.staticflickr.com/65535/50445962316_9c06119eb8.jpg" width="500" height="268" alt="Screen Shot 2020-10-10 at 12.06.05 PM"></a>
 
-You are now ready to challenge someone with the task that you previously created. Go back to the My Tasks page and press the Assign button on the previous task. First choose who do you want to assign the challenge. You can choose to make it public which requires approval or assign it to a group or user. For the purposes of of testing I suggest you assign it to yourself. Finally, choose a due date and type in the name of the reward that you previously created. 
+You are now ready to challenge someone with the task that you previously created. Go back to the My Tasks page and press the Assign button on the previous task. First choose who you want to assign to the challenge. You can choose to make it public which requires approval or assign it to a group or user. For the purposes of of testing I suggest you assign it to yourself. Finally, choose a due date and type in the name of the reward that you previously created. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50446135986/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.25.36 PM"><img src="https://live.staticflickr.com/65535/50446135986_7ba950770f.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.25.36 PM"></a>
 
