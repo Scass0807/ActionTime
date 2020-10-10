@@ -19,10 +19,11 @@ The website will then redirect you to the user homepage
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443345261/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.40.36 AM"><img src="https://live.staticflickr.com/65535/50443345261_e401aab362.jpg" width="500" height="267" alt="Screen Shot 2020-10-10 at 12.40.36 AM"></a>
 
-You can then choose to view your current challenges by Clicking on the My Challenges card, or you can view public challenges by clicking on the Public Challenges card. Each challenge card can be clicked end it will flip to reveal more information about the challenge. You can accept challenges by clicking on one of the cards on the Public Challenges page or the Pending Challenges section of the My Challenges page.
+You can then choose to view your current challenges by Clicking on the My Challenges card, or you can view public challenges by clicking on the Public Challenges card. Each challenge card can be clicked end it will flip to reveal more information about the challenge. You can accept challenges by clicking on one of the cards on the Public Challenges page or the Pending Challenges section of the My Challenges page. In the Current Challenges section, you can update your progress to be approved by the challenge sender.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50442671793/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.47.57 AM"><img src="https://live.staticflickr.com/65535/50442671793_808d4202b0.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.47.57 AM"></a>
 
 You can also view progress on challenges you sent by clicking the Sent Challenges button. Here, you can also approve any progress made on the challenges you have sent so far.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443582232/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.59.49 AM">
+
