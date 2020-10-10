@@ -27,4 +27,42 @@ You can also view progress on challenges you sent by clicking the Sent Challenge
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443582232/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.59.49 AM"><img src="https://live.staticflickr.com/65535/50443582232_f9110d568c.jpg" width="500" height="265" alt="Screen Shot 2020-10-10 at 12.59.49 AM"></a>
 
-You can also make your own challenges and send them to others.
+You can also make your own challenges and send them to others. To make a challenge, you must first create a task. To create a task, go back to the homepage and click on the My Tasks card.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445767936/in/dateposted-public/" title="Screen Shot 2020-10-10 at 11.31.48 AM"><img src="https://live.staticflickr.com/65535/50445767936_371d5d65de.jpg" width="500" height="238" alt="Screen Shot 2020-10-10 at 11.31.48 AM"></a>
+
+Then click the New Task button to add a Task. Enter the information into the fields. The total field represents the total number of units required to complete the task This can be time, or if the task involves reading a book for example, it can be number of pages or chapters. The occurrence field represents how often the task should be completed, and the suggested split field represents the number of increments that the task can be split in to. You can also upload a picture to represent the new task.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445898571/in/dateposted-public/" title="Screen Shot 2020-10-10 at 11.48.12 AM"><img src="https://live.staticflickr.com/65535/50445898571_e6ffcb5a8b.jpg" width="500" height="266" alt="Screen Shot 2020-10-10 at 11.48.12 AM"></a>
+
+Once you have filled out all of the information press the create task button. You will then see your task under the My Task page.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445898616/in/dateposted-public/" title="Screen Shot 2020-10-10 at 11.49.00 AM"><img src="https://live.staticflickr.com/65535/50445898616_d39163f604.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 11.49.00 AM"></a>
+
+Before you can challenge someone to complete a task, you must first create a reward that will be received after the challenge is complete. To create a reward go back to the homepage and click on the Rewards card. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445270443/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.02.57 PM"><img src="https://live.staticflickr.com/65535/50445270443_8e8fdc19d1.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.02.57 PM"></a>
+
+To add a new reward, press the New Reward button. Enter the name, description, and total which represents the number of times that reward can be used. Upload a picture of the reward if desired.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445270443/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.02.57 PM"><img src="https://live.staticflickr.com/65535/50445270443_8e8fdc19d1.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.02.57 PM"></a>
+
+Once you have filled out all the information, click the Create Reward button. You will now see the reward under the Rewards page.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445962316/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.06.05 PM"><img src="https://live.staticflickr.com/65535/50445962316_9c06119eb8.jpg" width="500" height="268" alt="Screen Shot 2020-10-10 at 12.06.05 PM"></a>
+
+You are now ready to challenge someone with the task that you previously created. Go back to the My Tasks page and press the Assign button on the previous task. First choose who do you want to assign the challenge. You can choose to make it public which requires approval or assign it to a group or user. For the purposes of of testing I suggest you assign it to yourself. Finally, choose a due date and type in the name of the reward that you previously created. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50446135986/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.25.36 PM"><img src="https://live.staticflickr.com/65535/50446135986_7ba950770f.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.25.36 PM"></a>
+
+When you are finished entering the information press the Assign Task button. You will now see the challenge on the Sent Challenges page.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445445593/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.25.59 PM"><img src="https://live.staticflickr.com/65535/50445445593_3707e1c26e.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.25.59 PM"></a>
+
+Since you sent the challenge to yourself, It should now appear on the My Challenges page under the Pending Challenges section. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50446319147/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.28.06 PM"><img src="https://live.staticflickr.com/65535/50446319147_ff13ac3876.jpg" width="500" height="270" alt="Screen Shot 2020-10-10 at 12.28.06 PM"></a>
+
+Click the card and press the Accept Challenge button. It will now appear under the Current Challenges section. As discussed above, while you are completing the challenge you can update any progress which must be approved. Since you sent the challenge to yourself you can approve any progress on the Sent Challenges page under the Approval Request Challenges section. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50446319147/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.28.06 PM"><img src="https://live.staticflickr.com/65535/50446319147_ff13ac3876.jpg" width="500" height="270" alt="Screen Shot 2020-10-10 at 12.28.06 PM"></a>
