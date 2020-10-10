@@ -25,6 +25,6 @@ You can then choose to view your current challenges by Clicking on the My Challe
 
 You can also view progress on challenges you sent by clicking the Sent Challenges button. Here, you can also approve any progress made on the challenges you have sent so far.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443582232/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.59.49 AM">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443582232/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.59.49 AM"><img src="https://live.staticflickr.com/65535/50443582232_f9110d568c.jpg" width="500" height="265" alt="Screen Shot 2020-10-10 at 12.59.49 AM"></a>
 
 You can also make your own challenges and send them to others.
