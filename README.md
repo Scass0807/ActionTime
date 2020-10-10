@@ -1,5 +1,5 @@
 # ActionTime
-I completed this project as part of the 2019 Monmouth University School of Science Summer Research Program collaborating with another student who at the time attended High Technology High School in Lincroft, NJ. The purpose of the project was to develop a web application aimed at teaching children execution skills such as time management and on time completion of tasks through reward based learning.
+I completed this project as part of the 2019 Monmouth University School of Science Summer Research Program under the direction of Professor Cui Yu collaborating with another student Allen Lu who at the time attended High Technology High School in Lincroft, NJ. The purpose of the project was to develop a web application aimed at teaching children execution skills such as time management and on time completion of tasks through reward based learning.
 
 The live site is compatible with Google Chrome and Mozilla Firefox and can be viewed here http://goals.planbook.xyz/ActionTime/public/
 
