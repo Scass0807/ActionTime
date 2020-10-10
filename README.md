@@ -45,7 +45,7 @@ Before you can challenge someone to complete a task, you must first create a rew
 
 To add a new reward, press the New Reward button. Enter the name, description, and total which represents the number of times that reward can be used. Upload a picture of the reward if desired.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445270443/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.02.57 PM"><img src="https://live.staticflickr.com/65535/50445270443_8e8fdc19d1.jpg" width="500" height="269" alt="Screen Shot 2020-10-10 at 12.02.57 PM"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50445270488/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.05.36 PM"><img src="https://live.staticflickr.com/65535/50445270488_0ab51a0df8.jpg" width="500" height="267" alt="Screen Shot 2020-10-10 at 12.05.36 PM"></a>
 
 Once you have filled out all the information, click the Create Reward button. You will now see the reward under the Rewards page.
 
