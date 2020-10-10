@@ -27,3 +27,4 @@ You can also view progress on challenges you sent by clicking the Sent Challenge
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/190561300@N03/50443582232/in/dateposted-public/" title="Screen Shot 2020-10-10 at 12.59.49 AM">
 
+You can also make your own challenges and send them to others.
